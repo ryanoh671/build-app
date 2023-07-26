@@ -1,0 +1,19 @@
+h5 {
+ text-decoration: underline; 
+}
+
+h4 {
+  font-style: italic;
+  white-space:normal;
+  font-size: 15px !important;
+}
+
+button:hover {
+  color: rgb(32, 32, 231)
+}
+
+.workout-page-details {
+  background-color: rgba(174, 179, 212, 0.5);
+  width: 300px;
+  margin: auto;
+}

@@ -1,0 +1,27 @@
+h2 {
+  color: white;
+  font-weight: bold;
+}
+
+p {
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Bree Serif';
+}
+
+.welcome-msg {
+  font-size: 20px;
+}
+
+.welcome-img {
+  height: 23vmin;
+  width: 43vmin;
+  margin: 100px 0 ;
+  border: 2px solid rgb(238, 231, 231);
+}
+
+.welcome-page > a :hover {
+  transform: scale(1.1);
+  transition: .3s;
+}

@@ -1,0 +1,25 @@
+.SearchPage {
+  height: 100%;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  background-color: var(--white);
+  border-radius: 2vmin;
+}
+
+.SearchPage aside {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  margin: 3vmin 2vmin;
+}
+
+.search-form {
+  display: flex;
+  align-items: center;
+  padding: 0 10px 0 0;
+}
+
+#search-btn {
+  margin: 10px -10px;
+}

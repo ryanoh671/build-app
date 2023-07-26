@@ -1,0 +1,24 @@
+.notes-date {
+  margin: 10px;
+}
+
+.workout-log {
+  background-color: white;
+}
+
+.log-title { 
+  margin: 22px 0 0 0;
+}
+
+.white {
+  background-color: rgb(255, 255, 255);
+}
+
+.cancel-btn {
+  color: rgb(233, 91, 40);
+  background-color: rgb(243, 168, 88);
+  border-radius: 16px;
+}
+.cancel-btn:hover {
+  color: rgb(219, 11, 11);
+}

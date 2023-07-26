@@ -1,0 +1,21 @@
+.navbar.navbar-light.bg-dark {
+  color: white;
+  border-radius: 20px;
+  border: 2px solid rgb(133, 122, 122);
+  padding: 12px;
+  margin: 5px;
+}
+
+.links > a {
+  color: white;
+}
+
+a:hover {
+   color: rgb(72, 72, 236);
+}
+
+.nav-img {
+  height: 30px;
+  width: 30px;
+}
+
